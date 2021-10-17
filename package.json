@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/zwonlala/todoMVC/issues"
   },
-  "homepage": "https://github.com/zwonlala/todoMVC#readme"
+  "homepage": "https://github.com/zwonlala/todoMVC#readme",
+  "dependencies": {
+    "todomvc-app-css": "^2.4.1",
+    "todomvc-common": "^1.0.5"
+  }
 }
