@@ -1,0 +1,19 @@
+{
+  "name": "todomvc",
+  "version": "1.0.0",
+  "description": "the study of JS(ES6) & React.js using TodoMVC(https://todomvc.com/) examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwonlala/todoMVC.git"
+  },
+  "author": "zwonlala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwonlala/todoMVC/issues"
+  },
+  "homepage": "https://github.com/zwonlala/todoMVC#readme"
+}
